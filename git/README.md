@@ -75,7 +75,9 @@ git checkout main
 git remote add origin RemplazarPorURL
 git branch -M main
 git push -u origin main
-```## 6. Branching
+```
+
+## 6. Branching
 
 ### Flujo de trabajo típico con ramas
 
